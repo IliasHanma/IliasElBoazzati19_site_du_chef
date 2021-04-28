@@ -1,0 +1,88 @@
+.section3{
+    background-image: url(../../../public/images/main_bg.jpg);
+    padding: 3%;
+    width: 100%;
+    .div-bg-white2{
+        width: 90%;
+        margin-left: 5%;
+        height: 1400px;
+        background-color: white;
+        .title-book{
+            font-family: 'Courgette', cursive;
+            span{
+                color: #b02939;
+            }
+        }
+        .bg-book-table{
+            background-image: url(../../../public/images/book_table_bg.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            height:550px;
+            width: 65%;
+
+            form{
+                .form-row{
+                    .col{
+                        input{
+                            width: 70%;
+                            
+                            
+                            
+                            
+                           
+                            
+                        }
+                    }
+                }
+            }
+        }
+        .div-blog{
+            .img1{
+                position:relative;
+                
+            }
+            #p{
+                position:absolute;
+                
+                background-color: #b02939;
+                height: 50px;
+                width: 80%;
+                margin-left:8.5%;
+                margin-top: -5%;
+
+                
+               
+                // text-align: center;
+                
+            }
+            .img2{
+                position: relative;
+            }
+            #p2{
+                position:absolute;
+                
+                background-color: #b02939;
+                height: 50px;
+                width: 80%;
+                margin-left:8.5%;
+                margin-top: -5%;
+
+            }
+            
+              }
+              .button-only{
+                input{
+                    border: solid 1px transparent;
+                    border-radius: 100px 100px 100px 100px;
+                    height: 50px;
+                    width: 15%;
+                    background-color:#b02939;
+                    color: white;
+                    text-align: center;
+                    margin-top: 20px;
+                }
+        }
+
+    }
+    
+}

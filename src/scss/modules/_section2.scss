@@ -1,0 +1,29 @@
+.section2{
+    background-image: url(../../../public/images/team_background.jpg);
+    background-position: center;
+    height: 700px;
+    //  filter:brightness(13%);
+    .title-chef{
+        //  z-index: 1;
+        //  position: absolute;
+         
+        font-family: 'Courgette', cursive;
+        color: white;
+        span{
+            color: #b02939;
+        }
+    }
+    .div-chef{
+        // position: absolute;
+        // z-index: 1;
+        
+        div>p{
+            color: white;
+            padding: 1%;
+        }
+        div>img{
+            border-bottom: 1px white solid;
+        }
+       
+    }
+}
