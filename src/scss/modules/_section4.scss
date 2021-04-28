@@ -1,0 +1,30 @@
+.section4{
+    background-image: url(../../../public/images/testimonials_background.jpg);
+    background-repeat: no-repeat;
+    .title-client{
+        color: white;
+        font-family: 'Courgette', cursive;
+        span{
+            color:#b02939;
+            
+        }
+    }
+    .div-client{
+        width: 100%;
+        .div1,.div2{
+            img{
+                border-radius: 50%;
+                border: 5px solid #cccccc;
+            }
+            .div-text1,.div-text2{
+                border: 1px solid #cccccc;
+                border-radius: 3.5%;
+                height: 150px;
+                color: white;
+                h6{
+                    color:#b02939;
+                }
+            }
+        }
+    }
+}

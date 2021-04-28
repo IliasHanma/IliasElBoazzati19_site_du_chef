@@ -17730,12 +17730,11 @@ header .div-nav .navbar .nav2 {
 .section3 {
   background-image: url(../../../public/images/main_bg.jpg);
   padding: 3%;
-  width: 100%;
 }
 .section3 .div-bg-white2 {
   width: 90%;
   margin-left: 5%;
-  height: 1400px;
+  height: 1735px;
   background-color: white;
 }
 .section3 .div-bg-white2 .title-book {
@@ -17785,6 +17784,34 @@ header .div-nav .navbar .nav2 {
   color: white;
   text-align: center;
   margin-top: 20px;
+}
+
+.section4 {
+  background-image: url(../../../public/images/testimonials_background.jpg);
+  background-repeat: no-repeat;
+}
+.section4 .title-client {
+  color: white;
+  font-family: "Courgette", cursive;
+}
+.section4 .title-client span {
+  color: #b02939;
+}
+.section4 .div-client {
+  width: 100%;
+}
+.section4 .div-client .div1 img, .section4 .div-client .div2 img {
+  border-radius: 50%;
+  border: 5px solid #cccccc;
+}
+.section4 .div-client .div1 .div-text1, .section4 .div-client .div1 .div-text2, .section4 .div-client .div2 .div-text1, .section4 .div-client .div2 .div-text2 {
+  border: 1px solid #cccccc;
+  border-radius: 3.5%;
+  height: 150px;
+  color: white;
+}
+.section4 .div-client .div1 .div-text1 h6, .section4 .div-client .div1 .div-text2 h6, .section4 .div-client .div2 .div-text1 h6, .section4 .div-client .div2 .div-text2 h6 {
+  color: #b02939;
 }
 
 /*# sourceMappingURL=app.css.map */
