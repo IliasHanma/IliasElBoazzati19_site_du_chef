@@ -1,0 +1,24 @@
+.section5{
+    background-image: url(../../../public/images/main_bg.jpg);
+    .title-contact{
+        font-family: 'Courgette', cursive;
+        span{
+            color: #b02939;
+            
+        }
+    }
+    .div-contact{
+        
+        background-color: #b02939;
+        border-radius: 2%;
+        color: white;
+        width: 40%;
+        height: 280px;
+        i{
+            font-size: 270%;
+        }
+        p,h5{
+            border-bottom: 1px solid white;
+        }
+    }
+}

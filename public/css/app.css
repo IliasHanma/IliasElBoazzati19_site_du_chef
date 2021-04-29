@@ -17814,4 +17814,27 @@ header .div-nav .navbar .nav2 {
   color: #b02939;
 }
 
+.section5 {
+  background-image: url(../../../public/images/main_bg.jpg);
+}
+.section5 .title-contact {
+  font-family: "Courgette", cursive;
+}
+.section5 .title-contact span {
+  color: #b02939;
+}
+.section5 .div-contact {
+  background-color: #b02939;
+  border-radius: 2%;
+  color: white;
+  width: 40%;
+  height: 280px;
+}
+.section5 .div-contact i {
+  font-size: 270%;
+}
+.section5 .div-contact p, .section5 .div-contact h5 {
+  border-bottom: 1px solid white;
+}
+
 /*# sourceMappingURL=app.css.map */
